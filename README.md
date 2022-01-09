@@ -3,8 +3,7 @@
 ---
 # 📇 Contact
 - Email 💌 skagns211@gmail.com
-- Blog  💾 [bit.ly/namhunKim](https://bit.ly/namhunKim)
----
+- Blog  💾 <a href="https://bit.ly/namhunKim" target="_blank">bit.ly/namhunKim</a>
 
 # 🛠 Stacks
 
