@@ -29,7 +29,9 @@
 <br />
   
 ### 💻 Deploy
-![](https://img.shields.io/badge/Amazon-EC2-EEA02B?style=for-the-badge&logo=Amazon-EC2&logoColor=white) ![](https://img.shields.io/badge/Amazon-RDS-EEA02B?style=for-the-badge&logo=AWS-RDS&logoColor=white) ![](https://img.shields.io/badge/Amazon-S3-EEA02B?style=for-the-badge&logo=Amazon-S3&logoColor=white) ![](https://img.shields.io/badge/Amazon-CloudFront-EEA02B?style=for-the-badge&logo=AWS-CloudFront&logoColor=white) ![](https://img.shields.io/badge/Amazon-Route53-EEA02B?style=for-the-badge&logo=Amazon-Route53&logoColor=white) 
+![](https://img.shields.io/badge/Amazon-EC2-EEA02B?style=for-the-badge&logo=Amazon-EC2&logoColor=white) ![](https://img.shields.io/badge/Amazon-RDS-EEA02B?style=for-the-badge&logo=AWS-RDS&logoColor=white) ![](https://img.shields.io/badge/Amazon-S3-EEA02B?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+  
+  ![](https://img.shields.io/badge/Amazon-CloudFront-EEA02B?style=for-the-badge&logo=AWS-CloudFront&logoColor=white) ![](https://img.shields.io/badge/Amazon-Route53-EEA02B?style=for-the-badge&logo=Amazon-Route53&logoColor=white) 
 
 <br />
   
