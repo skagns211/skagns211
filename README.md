@@ -22,7 +22,9 @@
 <br />
 
 ### 💎 Framework & Library
-![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/Redux-7420B7?style=for-the-badge&logo=Redux&logoColor=white) ![](https://img.shields.io/badge/React-Router-CA4245?style=for-the-badge&logo=React-router&logoColor=white)  ![](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/JSONWebTokens-DE2BEE?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white) ![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/Redux-7420B7?style=for-the-badge&logo=Redux&logoColor=white) ![](https://img.shields.io/badge/React-Router-CA4245?style=for-the-badge&logo=React-router&logoColor=white)  ![](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+  
+  ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/JSONWebTokens-DE2BEE?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white) ![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 <br />
   
