@@ -5,8 +5,7 @@
 [![Namhun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skagns211&hide_border=trueshow_icons=true&theme=tokyonight&hide=stars)](https://github.com/skagns211)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skagns211&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/skagns211)
   
 # 📇 Contact
- Email 💌 skagns211@gmail.com
-  
+   
  Blog  💾 <a href="https://bit.ly/namhunKim" target="_blank">bit.ly/namhunKim</a>
 
 <br />
